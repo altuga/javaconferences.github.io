@@ -28,6 +28,14 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 
 
 
+### 2027
+
+| Conference | Location | Hybrid | (Expected) Date | CFP Link |
+| --- | --- | ---: | ---: | --- |
+| [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkiye | no | 17 April 2027 | - |
+
+
+
 ### 2025
 
 | Conference | Location | Hybrid | (Expected) Date | CFP Link |
